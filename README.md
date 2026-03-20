@@ -37,8 +37,6 @@ MSRP
 
 Invoice Price
 
-📥 (If dataset is large, upload it on Google Drive or Kaggle and paste the link here)
-
 📊 Analysis Performed
 
 The project includes:
